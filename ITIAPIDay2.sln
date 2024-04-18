@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITIAPIDay2", "ITIAPIDay2\ITIAPIDay2.csproj", "{ABE14C4D-EB3A-4071-82F7-55D70ECECFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE14C4D-EB3A-4071-82F7-55D70ECECFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE14C4D-EB3A-4071-82F7-55D70ECECFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE14C4D-EB3A-4071-82F7-55D70ECECFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE14C4D-EB3A-4071-82F7-55D70ECECFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B707B2-1A35-4B23-9055-6DBC419C9BCA}
+	EndGlobalSection
+EndGlobal
